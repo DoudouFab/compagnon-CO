@@ -1,0 +1,6 @@
+{
+  "name": "Chroniques Oubliées - Compagnon PJ & Console MJ",
+  "description": "Application double pour le jeu de rôle Chroniques Oubliées : Compagnon PJ complet (fiche de personnage, PV, PM, voies héroïques, grimoire, inventaire) et Console MJ (suivi de combat, initiatives, bestiaire officiel, règles, équipements et gestion du groupe).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
